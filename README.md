@@ -1,2 +1,2 @@
 # Arduino Programming
-MY repository for arduino programmings
+MY repository for Arduino Programmings
